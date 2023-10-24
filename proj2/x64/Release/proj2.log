@@ -1,0 +1,60 @@
+﻿  Source.cpp
+F:\class_s6\vec3_proj2\include\Source.h(17,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\include\Source.h(26,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\include\Source.h(60,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(20,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\class_s6\vec3_proj2\src\Source.cpp(22,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\class_s6\vec3_proj2\src\Source.cpp(63,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(64,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(69,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(70,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(71,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(185,35): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\class_s6\vec3_proj2\src\Source.cpp(316,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(373,88): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\class_s6\vec3_proj2\src\Source.cpp(377,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(378,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(379,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(415,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(415,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(415,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(417,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(417,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(417,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(419,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(419,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(419,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(427,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(427,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(427,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(430,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(430,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(430,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(433,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(433,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(433,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(441,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(441,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(441,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(443,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(443,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(443,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(445,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(445,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(445,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(451,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(451,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(451,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(453,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(453,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(453,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(455,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(455,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\class_s6\vec3_proj2\src\Source.cpp(455,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 344 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  proj2.vcxproj -> F:\class_s6\vec3_proj2\proj2\x64\Release\proj2.exe

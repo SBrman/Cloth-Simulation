@@ -1,0 +1,3 @@
+F:\class_s6\vec3_proj2\proj2\x64\Debug\proj2.vcxproj.CopyComplete
+F:\class_s6\vec3_proj2\proj2\x64\Debug\proj2.exe
+F:\class_s6\vec3_proj2\proj2\x64\Debug\raylib.dll
